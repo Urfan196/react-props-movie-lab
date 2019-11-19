@@ -1,5 +1,5 @@
 const movieData = [
-  {
+  { 
     title: 'Choux and Maru go to Istanbul',
     IMDBRating: 3,
     genres: ['cats', 'adventure', 'romance'],
